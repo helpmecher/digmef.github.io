@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body{
+	background:url(images/stripes.png);
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+p{
+	color:#666666;
+}
+#container{
+	width:955px;
+	margin:0 auto;
+	background:white;
+	border:10px solid #B117A3;
+	box-shadow: 0px 2px 2px 2px #717171;
+}
+#content{
+	padding:0 20px;
+}
+#sidebar{
+	padding: 0 20px;
+	border-left: medium dotted #B117A3;
+	float:right;
+	width:200px;
+	text-align:center;
+	color:#970099;
+	margin-left:20px;
+}
+#navbar {
+	text-align: center;
+	text-transform:uppercase;
+}
+
+.floatLeft{
+	float:left;
+} 
+.floatRight{
+	float:right;
+}
+#xtra{
+	margin-right:20px;
+}
+footer{
+	padding:20px;
+	border-top:medium dotted #B117A3;
+
+
+}
+#xtra{
+	margin-right:20px;
+}
+.thumbnail{
+	width:100px;
+	height:auto;
+	margin-right:10px;
+}
